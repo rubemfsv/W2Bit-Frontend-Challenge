@@ -16,6 +16,7 @@ Você será avaliado por sua capacidade de escrever códigos legiveis, simples e
 * A organização das branches e os commits no repositório falam muito sobre como você organiza seu trabalho.
 * O design/estrutura do código da aplicação deve ser production ready.
 * Use boas práticas de programação.
+* Lembre-se de formatar bem as datas.
 * Você pode usar bibliotecas, mas queremos que as soluções sejam suas, portanto não use dependencias para tudo.
 * Inclua no seu readme os desafios/problemas com os quais você se deparou durante a execução do projeto.
 
